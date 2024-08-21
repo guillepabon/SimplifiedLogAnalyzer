@@ -1,10 +1,10 @@
 # SimplifiedLogAnalyzer
 This repository contains the code and resources for retrieving Apache HTTP and VSFTPD log files and provides different options to extract logs and summarize the content:
 
-(1) Requests from a given Client 
-(2) Type of request and frequency 
-(3) Response status code 
-(4) Raw log 
+(1) Requests from a given Client \n
+(2) Type of request and frequency \n
+(3) Response status code \n
+(4) Raw log \n
 
 # Contents
 * log-analizer.py: Main python script.
